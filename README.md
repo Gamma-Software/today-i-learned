@@ -1,2 +1,2 @@
-# today-i-learned
+# Today I Learned
 Gather my what I learn everyday
