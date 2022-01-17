@@ -1,6 +1,6 @@
 # Today I Learned
 
-Gather my what I learn everyday
+Gather what I learn everyday
 
 January 13th 2022
 OpenApi is a usefully tool to swagg an REST API and bind it with python.
